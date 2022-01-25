@@ -6,7 +6,8 @@
 - "Many consider a difficulty as problem or dead end ,
    Instead I think that we should consider it as a challenge if we tackle it down it will act as a milestone for further improvement "
 - 📫 How to reach me  :
-  -My personnel Email : hassenhamdi12@gamil.com
+  -My personnel Email : hassenhamdi12@gmail.com
+  -My Personal Website  : hassenhamdi12@gmail.com
   -My phone Number : +21627708478
   -My linkedin profile : https://www.linkedin.com/in/hassen-hamdi-79ba41201/
 
