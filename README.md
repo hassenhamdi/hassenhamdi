@@ -1,15 +1,20 @@
 - 👋 Hi, I’m @hassenhamdi
-- 👀 I’m interested in competitive programming , softawre engineering , programming languages like cpp and java , software development methodology devops , essential softskills ...
-- 🌱 I’m currently learning more python concepts  and libraries ,  more on SQL , DataStructers and algorithms paradigms  ...
--
-- 💞️ I’m looking to collaborate on project of a software developement and testing to gain the experience and coding to solve real world challennge .
-- "Many consider a difficulty as problem or dead end ,
-   Instead I think that we should consider it as a challenge if we tackle it down it will act as a milestone for further improvement "
+- 👀 I’m interested in Problem Solving,Artificial intellingence ,DeepLearning ,Machine Learning, softawre engineering , programming languages like python cpp and java , software development methodology Agile Scrum ,DevOps ,and essential soft skills  ...
+- I am currently interested more in learning about Machine Learning , Deep Learning and related subjects and Big Data concepts and techs . 
+-  🌱 Occassionally Learning python concepts  and libraries ,  more on SQL , DataStructers and algorithms paradigms  ...
+- 💞️ I’m looking to collaborate on projects for software developement, testing ,deploying and maintainace to gain the experience and sufficient coding skills to solve real world challenges .
+
+
+- "Wisdom is my Companion and it is my Guiding Light."  
+
+
 - 📫 How to reach me  :
+
+  -My institutional email adress : hassen.hamdi@etudiant-isi.utm.tn 
   -My personnel Email : hassenhamdi12@gmail.com
-  -My Personal Website  : http://hassenhamdi.me/
+  -My Personal Website  : http://hassenhamdi.tech/
   
-  -My phone Number : +21627708478
+  -My phone Numbers : +21625605006 , +21636150487
   -My linkedin profile : https://www.linkedin.com/in/hassen-hamdi-79ba41201/
 
 <!---
