@@ -15,6 +15,11 @@
   
   -My phone Numbers : +21625605006 , +21636150487
   -My linkedin profile : https://www.linkedin.com/in/hassen-hamdi-79ba41201/
+  
+  -Some of my projects :
+      https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject
+      https://github.com/hassenhamdi/JavaGuiMiniProject/
+      https://github.com/hassenhamdi/mini-project-
 
 <!---
 hassenhamdi/hassenhamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
