@@ -36,7 +36,7 @@
       
       https://github.com/hassenhamdi/mini-project-
   
-  - My CV (I am note a fun a making CVs):
+  -My CV :
       
       https://drive.google.com/file/d/11i1ExvaI7CVmHZQqTaNXhK0QgQya0Mt1/view?usp=sharing
       
