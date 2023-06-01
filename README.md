@@ -35,7 +35,11 @@
       https://github.com/hassenhamdi/JavaGuiMiniProject/
       
       https://github.com/hassenhamdi/mini-project-
-
+  
+  - My CV (I am note a fun a making CVs):
+      
+      https://drive.google.com/file/d/11i1ExvaI7CVmHZQqTaNXhK0QgQya0Mt1/view?usp=sharing
+      
 <!---
 hassenhamdi/hassenhamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
