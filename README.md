@@ -10,15 +10,30 @@
 
 - 📫 How to reach me  :
 
-  -My institutional email adress : hassen.hamdi@etudiant-isi.utm.tn 
-  -My personnel Email : hassenhamdi12@gmail.com
+  -My institutional email adress : 
+      
+      hassen.hamdi@etudiant-isi.utm.tn 
+   
+  -My personnel Email : 
+      
+      hassenhamdi12@gmail.com
   
-  -My phone Numbers : +21625605006 , +21636150487
-  -My linkedin profile : https://www.linkedin.com/in/hassen-hamdi-79ba41201/
+  -My phone Numbers : 
+      
+      +21625605006  
+      
+      +21636150487
+  
+  -My linkedin profile : 
+      
+      https://www.linkedin.com/in/hassen-hamdi-79ba41201/
   
   -Some of my projects :
+      
       https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject
+      
       https://github.com/hassenhamdi/JavaGuiMiniProject/
+      
       https://github.com/hassenhamdi/mini-project-
 
 <!---
