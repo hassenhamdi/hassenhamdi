@@ -26,11 +26,11 @@
   
   -My linkedin profile : 
       
-      https://www.linkedin.com/in/hassen-hamdi-79ba41201/
+      https://www.linkedin.com/in/hassenhamdi/
   
   -Some of my projects :
       
-      https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject
+      https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject (recent academic project )
       
       https://github.com/hassenhamdi/JavaGuiMiniProject/
       
