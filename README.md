@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @hassenhamdi
-- 👀 I’m interested in Problem Solving,Artificial intellingence ,DeepLearning ,Machine Learning, softawre engineering , programming languages like python cpp and java , software development methodology Agile Scrum ,DevOps ,and essential soft skills  ...
-- I am currently interested more in learning about Machine Learning , Deep Learning and related subjects and Big Data concepts and techs . 
--  🌱 Occassionally Learning python concepts  and libraries ,  more on SQL , DataStructers and algorithms paradigms  ...
+- 👀 My domains of expertise includes but not limited to : Problem solving,  Data Science , Artificial intellingence  , Big Data , softawre engineering , database ,software development methodology such Agile Scrum ...
+- Developed soft skill == Job ready !!!
+- I do highly care about improving my skills and continuous learn and gain new knowledge and skills . 
+- Delving and uncovering mysteries  of AI and related subjects  .
+-  🌱 Highly Proficient in Python and Java   ...
+-  Currently learning in Django for web developement specially my main focus is backend . 
 - 💞️ I’m looking to collaborate on projects for software developement, testing ,deploying and maintainace to gain the experience and sufficient coding skills to solve real world challenges .
 
 
