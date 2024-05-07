@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassenhamdi
 - 👀 My domains of expertise includes but not limited to : Problem solving,  Data Science , Artificial intellingence  , Big Data , softawre engineering , database ,software development methodology such Agile Scrum ...
-- Developed soft skill == Job ready !!!
+- Soft skill ,for me ,  is important as software to hardware , without software to work with there is no meaning for having hardwares, so without softskills what is the meaning of having technical skills !? 
 - I do highly care about improving my skills and continuous learn and gain new knowledge and skills . 
 - Delving and uncovering mysteries  of AI and related subjects  .
 -  🌱 Highly Proficient in Python and Java   ...
