@@ -24,9 +24,7 @@
   -My phone Numbers : 
       
       +21625605006  
-      
-      +21636150487
-  
+ 
   -My linkedin profile : 
       
       https://www.linkedin.com/in/hassenhamdi/
