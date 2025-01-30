@@ -7,9 +7,6 @@
 - Expert with Django framework for web developement and Django rest api. 
 - 💞️ I’m looking to collaborate on projects for software developement, testing ,deploying and maintainace to gain the experience and sufficient coding skills to solve real world challenges .
 
-- "Wisdom is my Companion and it is my Guiding Light."  
-
-
 - 📫 How to reach me  :
 
   -My institutional email adress : 
