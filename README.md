@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @hassenhamdi
-- 👀 My domains of expertise includes but not limited to : Problem solving,  Data Science , Artificial intellingence  , Big Data , softawre engineering , database ,software development methodology such Agile Scrum ...
+- 👀 My domains of expertise includes but not limited to : Problem solving,  Data Science , Artificial intellingence  , Big Data , database ,software development, methodology such Agile Scrum ...
 - Soft skill ,for me ,  is important as software to hardware , without software to work with there is no meaning for having hardwares, so without softskills what is the meaning of having technical skills !? 
 - I do highly care about improving my skills and continuous learn and gain new knowledge and skills . 
 - Delving and uncovering mysteries  of AI and related subjects  .
--  🌱 Highly Proficient in Python and Java   ...
-- Expert with Django framework for web developement and Django rest api. 
-- 💞️ I’m looking to collaborate on projects for software developement, testing ,deploying and maintainace to gain the experience and sufficient coding skills to solve real world challenges .
+- Expert in Python.
+- Familiar with Django framework for web developement and Django rest api. 
+- I’m looking to collaborate on projects for software developement, testing ,deploying and maintainace to gain the experience and sufficient coding skills to solve real world challenges .
 
 - 📫 How to reach me  :
 
@@ -34,7 +34,7 @@
       https://github.com/hassenhamdi/mini-project-
   
   -My CV :    
-  [https://drive.google.com/file/d/1EWjEnRBFzoEwIysTihGaA_ozENrhDd9P/view?usp=sharing](https://drive.google.com/file/d/1EWjEnRBFzoEwIysTihGaA_ozENrhDd9P/view?usp=sharing)
+  [https://drive.google.com/file/d/1EWjEnRBFzoEwIysTihGaA_ozENrhDd9P/view?usp=sharing](https://drive.google.com/file/d/1EWjEnRBFzoEwIysTihGaA_ozENrhDd9P/view?usp=sharing) !outdated!
       
 <!---
 hassenhamdi/hassenhamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
