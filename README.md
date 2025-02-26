@@ -16,10 +16,7 @@
   -My personnel Email : 
       
       hassenhamdi12@gmail.com
-  
-  -My phone Numbers : 
-      
-      +21625605006  
+ 
  
   -My linkedin profile : 
       
