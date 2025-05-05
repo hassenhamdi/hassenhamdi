@@ -31,7 +31,8 @@
       https://github.com/hassenhamdi/mini-project-
   
   -My CV :    
-  [Resume](https://drive.google.com/file/d/1rNMV7mO_O7VQJM3-cxUl5YhplU81iROs/view?usp=sharing)
+
+  [Resume](https://github.com/user-attachments/files/20036268/CV.pdf) 
       
 <!---
 hassenhamdi/hassenhamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
