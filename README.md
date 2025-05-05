@@ -32,7 +32,7 @@
   
   -My CV :    
 
-  [Resume](https://github.com/user-attachments/files/20036268/CV.pdf) 
+  [Resume](https://drive.google.com/file/d/1VSUSLP-oFesic4SKballtWgOOtfmom4O/view?usp=sharing)
       
 <!---
 hassenhamdi/hassenhamdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
