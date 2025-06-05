@@ -22,13 +22,6 @@
       
       https://www.linkedin.com/in/hassenhamdi/
   
-  -Some of my projects :
-      
-      https://github.com/hassenhamdi/AI_Taquin_Solver_MiniProject 
-      
-      https://github.com/hassenhamdi/JavaGuiMiniProject/
-      
-      https://github.com/hassenhamdi/mini-project-
   
   -My CV :    
 
