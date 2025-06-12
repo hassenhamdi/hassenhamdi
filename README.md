@@ -63,10 +63,6 @@ A glimpse into my recent work, showcasing practical applications of AI:
 
 Dedicated to continuous learning and formal validation of my skills:
 
-### 🏆 Certifications & Education
-
-Dedicated to continuous learning and formal validation of my skills:
-
 * **[AWS Certified AI Practitioner](https://www.credly.com/badges/5f83553d-f26a-4d11-9a45-36f097a1b1ef/)**
 * **[Professional Data Scientist](https://www.datacamp.com/certificate/DS0028797106033)**
 * **[AI Engineer](https://www.datacamp.com/completed/statement-of-accomplishment/track/70c7dc95ffc828da4f8caaab35937d241969f44f)**
